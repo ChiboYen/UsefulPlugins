@@ -1,2 +1,2 @@
 # UsefulPlugins
-Webpage for https://usefulplug.in detailing helpful server plugins for server owners
+A collection of [Useful Plugins](https://usefulplug.in) for server owners
